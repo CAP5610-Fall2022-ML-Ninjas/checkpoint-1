@@ -4,6 +4,8 @@
 ##### 30 October 2022
 ##### Machine Learning Ninjas: Bhatia, Ghosh, Nwogu
 
+<audio controls data-autoplay src="https://cap5610-fall2022-ml-ninjas.github.io/checkpoint-1/audio/slide-1-title.m4a"></audio>
+
 ---
 
 ## Outline
@@ -14,6 +16,8 @@
 - Potential Issues
 - ML Pipeline Improvement Plan
 
+<audio controls data-autoplay src="https://cap5610-fall2022-ml-ninjas.github.io/checkpoint-1/audio/slide-2-outline.m4a"></audio>
+
 ---
 
 ## Project Pitch
@@ -23,6 +27,8 @@ See previous presentation: [Project Proposal](https://cap5610-fall2022-ml-ninjas
 Problem Statement: Develop a supervised learning model that can predict a professor's success based on their educational background and affiliations.
 
 ML Task: Regression to predict probability of attrition
+
+<audio controls data-autoplay src="https://cap5610-fall2022-ml-ninjas.github.io/checkpoint-1/audio/slide-3-projpitch.m4a"></audio>
 
 Notes:
 
