@@ -48,19 +48,20 @@ The study statistically analyzed the data but did not apply any machine learning
 
 
 - Features
-    - Domain <- transform Field and keep Academia as the 9th domain
+    - Domain 
     - DegreeInstitutionID
     - CurrentInstitutionID
     - DegreeInstitutionPrestigeRank
     - CurrentInstitutionPrestigeRank
     - Gender
-    - AttritionRate <- calculate from AttritionEvents and NonAttritionEvents
-    - InstitutionRank
+    - AttritionRate
+
+<audio controls data-autoplay src="https://cap5610-fall2022-ml-ninjas.github.io/checkpoint-1/audio/slide-4-data-exp.m4a"></audio>
 
 Notes:
 
 As observed within the above diagram, the essential implementation of the solution is as follows:
-- Attain relevant features from the dataset that describes the faculty hiring network, also known as the `EdgeList`. These featueres include:
+- Attain relevant features from the dataset that describes the faculty hiring network, also known as the `EdgeList`. These features include:
     - `TaxonomyValue`: String. The subscope of the faculty hiring network that this edge is a part of.
     - `InstitutionId`: Integer. A unique identifer for the institution that employed the faculty.
     - `InstitutionName`: String. The name of the institution that employed the faculty.
